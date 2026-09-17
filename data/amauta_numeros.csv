@@ -1,0 +1,33 @@
+numero,epoca,anio,mes,pagina_inicio,pagina_fin,num_paginas,formato_cm,precio_comun_centavos,precio_amigos_centavos,evento
+1,I,1926,Setiembre,1,40,40,35x25.5,40,100,Primer numero; fechado interiormente VIII
+2,I,1926,Octubre,1,44,44,35x25.5,40,100,
+3,I,1926,Noviembre,1,44,44,35x25.5,40,100,
+4,I,1926,Diciembre,1,44,44,35x25.5,40,100,
+5,I,1927,Enero,1,44,44,35x25.5,40,100,
+6,I,1927,Febrero,1,44,44,35x25.5,40,100,
+7,I,1927,Marzo,1,44,44,35x25.5,40,100,
+8,I,1927,Abril,1,44,44,35x25.5,40,100,
+9,I,1927,Mayo,1,44,44,35x25.5,40,100,Clausura gubernativa tras este numero (complot comunista alegado)
+10,II,1927,Diciembre,1,44,44,35x25.5,80,200,Numero doble; reaparicion tras la clausura; fechado interiormente X-XI-XII
+11,II,1928,Enero,1,44,44,35x25.5,40,100,
+12,II,1928,Febrero,1,44,44,35x25.5,40,100,
+13,II,1928,Marzo,1,44,44,35x25.5,40,100,
+14,II,1928,Abril,1,44,44,35x25.5,40,100,En caratula aparece como numero 15 por error
+15,II,1928,Mayo-Junio,1,44,44,35x25.5,40,100,
+16,II,1928,Julio,1,44,44,35x25.5,40,100,Homenaje a Manuel Gonzalez Prada (X aniversario de su muerte)
+17,II,1928,Setiembre,1,104,104,25x17.5,70,150,Cambio de formato a partir de este numero
+18,II,1928,Octubre,1,104,104,25x17.5,70,150,
+19,II,1928,Nov-Dic,1,104,104,25x17.5,70,150,
+20,II,1929,Enero,1,104,104,25x17.5,70,150,
+21,II,1929,Feb-Marzo,1,104,104,25x17.5,70,150,Homenaje a Jose Maria Eguren
+22,II,1929,Abril,1,104,104,25x17.5,70,150,
+23,II,1929,Mayo,1,104,104,25x17.5,70,150,
+24,II,1929,Junio,1,104,104,25x17.5,70,150,
+25,II,1929,Jun-Agosto,1,104,104,25x17.5,70,150,
+26,II,1929,Set-Octubre,1,104,104,25x17.5,70,150,
+27,II,1929,Nov-Dic,1,104,104,25x17.5,70,150,
+28,II,1930,Enero,1,104,104,25x17.5,70,150,
+29,II,1930,Feb-Marzo,1,104,104,25x17.5,70,150,Anuncia la gravedad de Jose Carlos Mariategui
+30,III,1930,Abril-Mayo,1,104,104,25x17.5,70,150,Numero posterior a la muerte de Mariategui (16 abril 1930); Tercera Etapa
+31,III,1930,Junio-Julio,1,104,104,25x17.5,70,150,
+32,III,1930,Agosto-Set,1,104,104,25x17.5,70,150,Ultimo numero de Amauta
